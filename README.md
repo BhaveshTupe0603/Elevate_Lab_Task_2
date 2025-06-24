@@ -14,7 +14,7 @@ This task focuses on transforming raw Contoso sales data into compelling visual 
 - **Excel** – for light data preprocessing and model structuring  
 
 📥 **Dataset Download Link**:  
--🔗 [Download Contoso Dataset (https://www.microsoft.com/en-us/download/details.aspx?id=18279)
+- 🔗 [Download Contoso Dataset (https://www.microsoft.com/en-us/download/details.aspx?id=18279)
 ---
 
 ## 📌 Key Features of the Dashboard
