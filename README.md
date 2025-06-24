@@ -1,5 +1,7 @@
 # 📊 Task 2: Data Visualization and Storytelling
 
+![Contoso Sales Dashboard_page-0001](https://github.com/user-attachments/assets/774f2130-4c14-402f-afcb-09d1a9e7953a)
+
 
 ## 🎯 Objective
 This task focuses on transforming raw Contoso sales data into compelling visual stories using data visualization tools like **Power BI** or **Tableau**. The goal is to go beyond static charts — delivering clear, business-relevant insights through thoughtful dashboard design and storytelling.
@@ -12,7 +14,7 @@ This task focuses on transforming raw Contoso sales data into compelling visual 
 - **Excel** – for light data preprocessing and model structuring  
 
 📥 **Dataset Download Link**:  
-🔗 [Download Contoso Dataset (https://www.microsoft.com/en-us/download/details.aspx?id=18279)
+-🔗 [Download Contoso Dataset (https://www.microsoft.com/en-us/download/details.aspx?id=18279)
 ---
 
 ## 📌 Key Features of the Dashboard
